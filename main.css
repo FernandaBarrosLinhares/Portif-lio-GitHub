@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display:block;
+    background-color: chocolate;
+}
+
+.d-inline{
+    display: block;
+}
